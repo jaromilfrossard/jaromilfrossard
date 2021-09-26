@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am statistican. I have written the `permuco` and `permuco4brain` R packages. I maintain the `rstatsvideo` twitter-bot.
+
 <!--
 **jaromilfrossard/jaromilfrossard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
