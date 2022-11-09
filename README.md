@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a statistician. I am currently looking for a job. Feel free to contact me if you want to hire me.
+I am a statistician. I am currently working at the Geneva University Hospital.
 
 I have written the [`permuco`](https://jaromilfrossard.github.io/permuco/) R package. It computes permutation tests for linear models, ANOVA and repeated measures ANOVA. It also includes functions for multiple comparisons like the cluster-mass test, the TFCE or the min-p procedure.
 
