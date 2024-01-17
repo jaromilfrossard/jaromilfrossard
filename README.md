@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I am a statistician. I am currently working at the Geneva University Hospital.
-
-I have written the [`permuco`](https://jaromilfrossard.github.io/permuco/) R package. It computes permutation tests for linear models, ANOVA and repeated measures ANOVA. It also includes functions for multiple comparisons like the cluster-mass test, the TFCE or the min-p procedure.
+The [`permuco`](https://jaromilfrossard.github.io/permuco/) R package computes permutation tests for linear models, ANOVA and repeated measures ANOVA. It also includes functions for multiple comparisons like the cluster-mass test, the TFCE or the min-p procedure.
 
 The [`permuco4brain`](https://jaromilfrossard.github.io/permuco4brain/) R package extends the functionality of `permuco` when the data are distributed in time and/or in space. It has been designed for analyzing full scalp EEG data.
 
- I maintain the [`rstatsvideo`](https://twitter.com/rstatsvideo) twitter-bot that shares links of videos on #rstats. You can explore all videos on a [dashboard](https://jaromilfrossard.github.io/rstatsvideo/).
+ I maintained the [`rstatsvideo`](https://twitter.com/rstatsvideo) twitter-bot that shares links of videos on #rstats. You can explore all videos on a [dashboard](https://jaromilfrossard.github.io/rstatsvideo/).
 
 
 
